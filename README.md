@@ -1,6 +1,6 @@
 🌍 Landslide Detection using Hybrid SAM + Swin Transformer
 
-A segmentation-assisted transformer framework for landslide detection in remote sensing imagery.
+A this one segmentation-assisted transformer framework for landslide detection in remote sensing imagery.
 
 📌 Overview
 
